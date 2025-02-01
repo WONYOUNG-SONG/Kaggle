@@ -5,9 +5,9 @@ Welcome to my Kaggle and AI/ML learning repository! This repository is dedicated
 
 ## Current Projects
 
-### 1. Kaggle Competitions
-- 
-### 2. Machine Learning Projects
+### 1. Kaggle Dataset
+- Used Car Price
+### 2. Kaggle Competitions
 -
 
 ## Skills and Tools
