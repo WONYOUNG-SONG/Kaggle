@@ -7,7 +7,7 @@ Welcome to my Kaggle and AI/ML learning repository! This repository is dedicated
 
 ### 1. Kaggle Dataset
 - Used Car Price
-- Heart Attack Assesment
+- Heart Attack Assessment
 ### 2. Kaggle Competitions
 -
 
