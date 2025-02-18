@@ -15,7 +15,7 @@ Welcome to my Kaggle and AI/ML learning repository! This repository is dedicated
 
 - **Languages**: Python
 - **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
-- **Techniques**: Data Visualization, Data preprocessing, feature engineering, supervised/unsupervised learning, model evaluation
+- **Techniques**: Computer Vision, Data Visualization, Data preprocessing, feature engineering, supervised/unsupervised learning, model evaluation
 - **Platforms**: Kaggle Notebooks, Google Colab
 
 ## Getting Started
